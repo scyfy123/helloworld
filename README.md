@@ -15,6 +15,7 @@ lesson 1
     stays mainly in the plain
     ```
 - **Bold**
+- ~~strikethrough~~
 - [link](http://example.com)
 - `inline code`
 
@@ -34,10 +35,9 @@ enumerate
 
 quote
 
-> quote
-> quote
+> Almost there..
 
-code blocks
+code blocks:
 
 ```
 def fn():
@@ -52,14 +52,6 @@ $PSVersionTable.PSVersion
 ```
 
 table
-
-Styles, embedded HTML doesn't work..
-
-<style>
-td, th {
-    border: 1px solid grey
-}
-</style>
 
 | name | description |
 |-|-|

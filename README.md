@@ -1,7 +1,7 @@
 # helloworld
 lesson 1
 
-![](res/bus-stop.png)
+![](res/bus_stop.png)
 
 # Heading
 
